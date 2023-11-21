@@ -27,15 +27,12 @@ TODO
   ### [Html document with Bootstrap](#snippets-html-bootstrap)
   An html document with basic Bootstrap 5 implementation
   
-  **Shortcut:** bootstrap
-
-  **Usage:**
-  ```html
-  
-  ```
+  **Shortcuts:** bootstrap
   ### [#region](#snippets-html-code-region)
   Define a code region between the #region and #endregion tag like C# regions
 
+  **Shortcuts:** region, reg
+  
   **Usage:**
   ```html
   <!-- #region [name] -->
